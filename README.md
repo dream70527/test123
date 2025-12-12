@@ -1,8 +1,9 @@
 
-• 我会放出，2个 666美元的 密钥  正好 1212美元  你们自己抢着用。不需要你们充值，不割你们[奸笑]
-• 13:50准时放出！新人赶快根据配置教材配置好，
 
-免费密钥2个：【凭本事抢】
+ echo 'export ANTHROPIC_BASE_URL="https://claude.kun8.vip/api"' >> ~/.bashrc
+
+ echo 'export ANTHROPIC_AUTH_TOKEN="bma_3a0ed0a25912c269976a4dbf1e16646d7f604934ff31e976b270fe3f07e56d58"' >> ~/.bashrc
+source ~/.bashrc
 
 bma_d33054c188ce93cb4c4cd7572e1b9b321fe7be15435eed18ea596c0b925f521d
 
