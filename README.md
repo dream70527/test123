@@ -1,5 +1,5 @@
 
-
+bma_7750651ff369462821a9cd5133fbe586a412a30c0b20876e60a8d0f05e6bb113
  echo 'export ANTHROPIC_BASE_URL="https://claude.kun8.vip/api"' >> ~/.bashrc
 
  echo 'export ANTHROPIC_AUTH_TOKEN="bma_3a0ed0a25912c269976a4dbf1e16646d7f604934ff31e976b270fe3f07e56d58"' >> ~/.bashrc
