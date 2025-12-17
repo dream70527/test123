@@ -1,13 +1,11 @@
 
-bma_7750651ff369462821a9cd5133fbe586a412a30c0b20876e60a8d0f05e6bb113
+
  echo 'export ANTHROPIC_BASE_URL="https://claude.kun8.vip/api"' >> ~/.bashrc
 
- echo 'export ANTHROPIC_AUTH_TOKEN="bma_3a0ed0a25912c269976a4dbf1e16646d7f604934ff31e976b270fe3f07e56d58"' >> ~/.bashrc
+ echo 'export ANTHROPIC_AUTH_TOKEN="bma_7750651ff369462821a9cd5133fbe586a412a30c0b20876e60a8d0f05e6bb113"' >> ~/.bashrc
 source ~/.bashrc
 
-bma_d33054c188ce93cb4c4cd7572e1b9b321fe7be15435eed18ea596c0b925f521d
 
-bma_3a0ed0a25912c269976a4dbf1e16646d7f604934ff31e976b270fe3f07e56d58
 # 安全策略
 ## meta层设置
 避免暴露本站的url 查询参数等敏感路径
